@@ -1,0 +1,28 @@
+#month{
+	width: 25px;
+}
+#year{
+	width: 40px;
+}
+#input{
+	margin: 100px auto 20px;
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	margin: 0px auto;
+	text-align: center;
+}
+
+td, th {
+	border: 1px solid black;
+	width: 20px;
+	height: 20px;
+	padding: 5px;
+	text-align: center;
+}
+
+th {
+	font-weight: bold;
+	background-color: #BFCFFF;
+}
